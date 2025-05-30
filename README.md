@@ -5,4 +5,5 @@ This repository serves as a hub for all my Deep Learning-related projects. Each 
 ## 🔗 Repositories
 
 ### 1. Bone Fracture Detection
-- [Bone-Fracture-Detection](https://github.com/NoorNick/Bone-Fracture-Detection)
+- [Bone-Fracture-Detection-Repository](https://github.com/your-username/cnn-mnist-classifier)
+
